@@ -8,7 +8,7 @@ import android.graphics.Paint;
 import android.graphics.RectF;
 
 /**
- * Created by muppala on 23/5/15.
+ * Created by Vishwajeet Srivastava on 27/9/15.
  */
 public class AndroidGuy {
     float x; // Guy's top left corner (x,y)
